@@ -4,6 +4,7 @@ https://www.mediafire.com/file/vnthsndj1gd0ep1/FluxusTrucRobloxAndAfxcaxiRoblox.
 
 **script:
 kaitun:
+[Copy Text](javascript:void(0); "cvsbsj")
 aruze:
 
 getgenv().Team = "Pirates"
