@@ -1,10 +1,10 @@
-**fluxus
+# fluxus
 https://www.mediafire.com/file/bx39ikm2nxcy68d/HN_Gaming_fluxus_nokey.apk/file
 https://www.mediafire.com/file/vnthsndj1gd0ep1/FluxusTrucRobloxAndAfxcaxiRoblox.apk/file
 
-**script:
+# script:
 kaitun:
-[Copy Text](javascript:void(0); "cvsbsj")
+```loadstring(game:HttpGet("https://raw.githubusercontent.com/GhuyScript/VairKaitun/main/Kaitun", true))()```
 aruze:
 
 getgenv().Team = "Pirates"
@@ -13,7 +13,7 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc61
 doremon:
 loadstring(game:HttpGet('https://raw.githubusercontent.com/onepicesenpai/onepicesenpai/main/onichanokaka'))()
 
-**acc: 
+# acc: 
 
 Ðuc:
 
