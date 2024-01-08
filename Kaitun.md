@@ -1,75 +1,40 @@
-if a then return end
-
-   getgenv().Config = {
-      ["Main"] =
-      {
-         
-          
-         ["Fast Method"] = true, 
-         
-         ["Item / Saber"] = true, 
-         ["Quest / Bartilo"] = true, 
-         ["Quest / Race V2"] = true,
-         ["Quest / Race V3"] = true, 
-         ["Staying On 2ne Sea Until Got Rengoku"] = false,
-         ["Misc / Automatically Hop For Rip Indra"] = true,
-         ["Auto Farming Cake Prince If Max Level"] = 
-         {
-            ["Enable"] = true, 
-            ["Until"] = 30000 
-         },
-         ["Auto Farming Bone If Max Level (After Cake Prince)"] =
-         {
-            ["Enable"] = true,
-         },
-         ["Misc / Hop To Another For 1m+ Fruit (Swan Quest)"] = false, 
-         ["Misc / Automatically Purchase Legendary Sword"] = true, 
-         ["Misc / Automatically Purchase Haki Color"] = true, 
-         
-         ["Misc / Delay For Hopping"] = 15, 
-         ["Ingoring Eat Another Fruit If Current Fruit Is Awakened"] = true,
-         ["Misc / Auto Farming Mastery For Sword (If Have No Task)"] = true, 
-       
-         ["Misc / Hop"] =
-         {
-           ["Enable"] = true,
-           ["Delay"] = 400,
-         },
-      },
-      ["Fruit"] =
-      {
-         ["Misc / Fruit Sniping"] =
-         { 
-            "Dough-Dough", "Venom-Venom", "Dragon-Dragom"
-           
-         },
-         ["Misc / Fruit Looting"] = true,
-         ["Misc / Fruit Looting"] = true, 
-         ["Misc / Auto Raid If Can't Store"] = true, 
-         ["Misc / Fragments Limit By Fruit Loot Raid"] = 30000, 
-         ["Eat While Cant Store"] = true 
-      },
-      ["Misc"] =
-      {
-         ["Webhook"] =
-         { -- Discord Webhook
-            ["Url"] ="",
-            ["Enable"] = true, -- Báº­t or Táºµt
-         
-            ["Webhook Setting"] =
-            {
-               ["Account Status"] = true , 
-               ["Delay"] = 300,
-  
-            }
-         },
-         ["White Screen"] = false,
-
-         ["Fast Attack Delay"] = 0.1,
-         ["Remove Terrain"] = false 
-      }
-   }
-   print(0)
-   print(0)
-   
-   loadstring(game:HttpGet"https://raw.githubusercontent.com/eltrul/Annie/main/JroIrokOro2jJnkP")()
+getgenv().SpamSkill = false
+getgenv().AutoUseRaceV3 = true
+getgenv().AutoUseRacev4 = true
+getgenv().SpamSkillOnRaceV4 = true
+getgenv().Invisible = true
+getgenv().InCombatNoReset = true
+getgenv().Team = "Pirates" -- Marines
+getgenv().TweenSpeed = 300 -- 350 max or Get Tp Back
+ getgenv().Setting = { -- Select Weapon, Self Explain
+        ["Melee"] = {["Enable"] = true,["Delay"] = 3,
+          ["Skills"] = {
+            ["Z"] = {["Enable"] = true,["HoldTime"] = 0.2,["TimeToNextSkill"] = 0,},
+            [ "X"] = {["Enable"] = true,["HoldTime"] = 0, ["TimeToNextSkill"] = 0,},
+            ["C"] = {["Enable"] = true,["HoldTime"] = 0, ["TimeToNextSkill"] = 0,},
+            },
+        },
+        ["Blox Fruit"] = {["Enable"] = false, ["Delay"] = 4,
+            ["Skills"] = {
+                ["Z"] = {["Enable"] = true, ["HoldTime"] = 1.2, ["TimeToNextSkill"] = 0,},
+                ["X"] = { ["Enable"] = true, ["HoldTime"] = 0, ["TimeToNextSkill"] = 0,},
+                ["C"] = { ["Enable"] = true, ["HoldTime"] = 0,["TimeToNextSkill"] = 0, },
+                ["V"] = { ["Enable"] = true, ["HoldTime"] = 0,["TimeToNextSkill"] = 0,},
+                ["F"] = {["Enable"] = true,["HoldTime"] = 0, ["TimeToNextSkill"] = 0,},
+            },
+        },
+        ["Sword"] = { ["Enable"] = true, ["Delay"] = 2,
+            ["Skills"] = {
+                ["Z"] = {["Enable"] = true,  ["HoldTime"] = 0,["TimeToNextSkill"] = 0,},
+                ["X"] = {["Enable"] = true, ["HoldTime"] = 0.2, ["TimeToNextSkill"] = 0,},
+            },
+        },
+        ["Gun"] = {["Enable"] = false, ["Delay"] = 2,
+            ["Skills"] = {
+                ["Z"] = {["Enable"] = true,["HoldTime"] = 0,["TimeToNextSkill"] = 0,},
+                ["X"] = {["Enable"] = true,["HoldTime"] = 0,["TimeToNextSkill"] = 0,
+                },
+            },
+        }
+    }
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/vinhuchi/temp-repos/main/FreeAutoBounty.lua'))()
