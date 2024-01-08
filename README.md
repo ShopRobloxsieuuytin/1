@@ -1,5 +1,5 @@
 # fluxus
-https://www.mediafire.com/file/eekrtk6617908gq/Fluxus+V65+(+Min+Gaming+).apk/file
+https://www.mediafire.com/file/uxjd4qmjvw44v37/Ngáo-Gaming_Delta_v20.apk/file?dkey=e9nmp25jfrs&r=243
 https://www.mediafire.com/file/vnthsndj1gd0ep1/FluxusTrucRobloxAndAfxcaxiRoblox.apk/file
 
 # script:
