@@ -1,6 +1,6 @@
 # fluxus
 https://drive.google.com/file/d/1wVpVzwRFec0LT_oUVKrSELutVETzK_BK/view
-https://www.mediafire.com/file/vnthsndj1gd0ep1/FluxusTrucRobloxAndAfxcaxiRoblox.apk/file
+
 
 # script:
 ## kaitun:
