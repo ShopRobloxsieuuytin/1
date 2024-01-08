@@ -1,5 +1,5 @@
 # fluxus
-https://www.mediafire.com/file/bx39ikm2nxcy68d/HN_Gaming_fluxus_nokey.apk/file
+https://www.mediafire.com/file/eekrtk6617908gq/Fluxus+V65+(+Min+Gaming+).apk/file
 https://www.mediafire.com/file/vnthsndj1gd0ep1/FluxusTrucRobloxAndAfxcaxiRoblox.apk/file
 
 # script:
