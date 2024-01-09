@@ -3,8 +3,9 @@ https://www.mediafire.com/file/kb0n7gjkd6qiktk/hngaming-fluxus-nokey.apk/file
 
 
 # script:
-## kaitun:
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/GhuyScript/VairKaitun/main/Kaitun", true))()```
+
+## hoho hub
+```loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()```
 
 ## aruze:
 `getgenv().Team = "Pirates"
