@@ -14,18 +14,21 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc61
 
 # acc: 
 
-Ðuc:
+## Ðuc:
 
 XNmoUe5|Anhduc10
 
-khanh:
+## khanh:
 
 Rondsluip5a|anhduc10
 
-quan:
+## quan:
 
 atfe9w|vuonggiap601787
 
-huy dat:
+## huy dat:
 
 ahhhsggdhs|huydat12345
+## khánh 
+Xcx8glYm0J|gipzaR-dyjcu5-fucjig
+## khoa 
