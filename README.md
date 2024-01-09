@@ -1,5 +1,5 @@
 # fluxus
-https://drive.google.com/file/d/1wVpVzwRFec0LT_oUVKrSELutVETzK_BK/view
+https://www.mediafire.com/file/kb0n7gjkd6qiktk/hngaming-fluxus-nokey.apk/file
 
 
 # script:
