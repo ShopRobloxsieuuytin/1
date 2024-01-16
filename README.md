@@ -15,9 +15,9 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc61
 
 # fluxus nổi: 
 ## 1:
-https://drive.google.com/file/d/1bzJlkL4Otasx2aFwr44TSB0MiGleMuSF
+https://drive.google.com/file/d/1bzJlkL4Otasx2aFwr44TSB0MiGleMuSF/
 ## 2:
-https://drive.google.com/file/d/1Ycg3jFajleT-CZALRKlCibOxu3IEVyz8
+https://drive.google.com/file/d/1Ycg3jFajleT-CZALRKlCibOxu3IEVyz8/
 ## 3:
 https://drive.google.com/file/d/17xBrsoZwh9V7zKFx12H_cm3Rnax0uAsi/
 
