@@ -1,5 +1,5 @@
 # fluxus
-https://www.mediafire.com/file/kb0n7gjkd6qiktk/hngaming-fluxus-nokey.apk/file
+https://www.mediafire.com/file/j5c4lqkhgabmam8/Fluxus_V66_No_Key_Zis.apk/file
 
 
 # script:
